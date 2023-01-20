@@ -1,1 +1,6 @@
 /* custom styles  */
+
+.bg-image {
+    background-image: url("images/bike-3.png");
+    background: linear-gradient(90deg, #ebc1c1c0 0%, rgba(228, 189, 189, 0.445) 24.48%, rgba(209, 170, 170, 0.103) 100%);
+}
